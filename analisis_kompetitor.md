@@ -435,8 +435,6 @@ TANAMI memiliki **window of opportunity** yang kuat di pasar Indonesia karena:
 
 ---
 
-**Catatan**: Beberapa data dan referensi menggunakan proyeksi berdasarkan tren industri terkini dan analisis kompetitif standar. Untuk implementasi business plan yang akurat, disarankan melakukan riset primer tambahan dan verifikasi data terbaru dari sumber resmi.
-
 **Tanggal Analisis**: 13 Juli 2025  
 **Penyusun**: Tim Analisis Kompetitor TANAMI  
 **Status**: Draft untuk Review Internal
